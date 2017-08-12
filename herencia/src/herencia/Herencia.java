@@ -11,7 +11,8 @@ package herencia;
  */
 public class Herencia {
 
-    /**pp
+    /*****
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
