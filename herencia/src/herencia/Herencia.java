@@ -18,6 +18,9 @@ public class Herencia {
     public static void main(String[] args) {
         EstudianteClass estudiante = new EstudianteClass();
         estudiante.comer();
+        estudiante.dormir();
+        estudiante.estudiar();
+        estudiante.hacer_examen();
         
         // TODO code application logic here
     }
