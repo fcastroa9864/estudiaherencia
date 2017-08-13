@@ -16,6 +16,9 @@ public class Herencia {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        EstudianteClass estudiante = new EstudianteClass();
+        estudiante.comer();
+        
         // TODO code application logic here
     }
     
