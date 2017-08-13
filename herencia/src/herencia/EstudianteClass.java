@@ -12,5 +12,12 @@ package herencia;
  */
 public class EstudianteClass extends PersonaClass {
     public EstudianteClass () {
+        
+    }
+    public void estudiar(){
+      System.out.println("Estudiar");
+    }
+    public void hacer_examen(){
+       System.out.println("Hacer Examen");
     }
 }
